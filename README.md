@@ -29,6 +29,7 @@ Die Beispiel Prompts liegen im Ordner [Prompts](./Prompts/)
 ### Ideen
 - [Dein Sterne🌟 Küchenteam](https://www.perplexity.ai/projects/dein-sterne-kuchenteam-9rId5ENEQbeT3QGoXQsI1Q)
 - [Parfume Dupe Finder](https://www.perplexity.ai/projects/parfume-dupe-finder-7H.LDpurRvyOj1PC2h137w)
+- [ARE](https://github.com/AndreasKarz/Agentic-BA-RE-Tester-Setup)
 
 ### ChatGPT
 - [ChatGPT personalisieren](https://learn.chatgpt.com/docs/personalize)
