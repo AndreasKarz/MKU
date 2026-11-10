@@ -1,40 +1,60 @@
 # MKU goes AI
 
-## Warm up
-Die traurige Realität aber zum Glück lustig => [warum KI-Einführung in Unternehmen so oft scheitert](https://www.youtube.com/watch?v=MA7-WH4hrlY)
+**KI verstehen. Kontext schaffen. Im Alltag wirksam einsetzen.**
 
-### Wer bin ich?
-Andreas Karz, AI Pionier, ehemaliger AI Experte bei der Swiss Life AG, seit 1 Monat freiwillig Frührenter.
+Vom offenen Auftrag zum geprüften Ergebnis: Dieser Workshop zeigt, wie du Microsoft Copilot im Kollektiv und Partnermanagement gezielt einsetzt. Ein fiktiver Partnertermin begleitet uns vom ersten Briefing bis zur fertigen Präsentation. Technisches Vorwissen ist nicht nötig.
 
-### ARE (Agentic Requirements Engineering)
-Mein Hauptprojekt bei der Swiss Life. [ARE](https://github.com/AndreasKarz/Agentic-BA-RE-Tester-Setup) ist ....
+## Was du mitnimmst
 
-## Präsentation
-Die Präsentation liegt im Ordner [Slidedeck](./Slidedeck/) als [PDF](./Slidedeck/Helsana_AI_Context_Engineering.pdf) und [PowerPoint](./Slidedeck/Helsana_AI_Context_Engineering.pptx) Datei.
+- **Die passende Arbeitsgrundlage:** Ziel, relevante Quellen, Regeln und Ablauf bewusst festlegen. Das ist der Kern von *Context Engineering*.
+- **Vier Bausteine klar unterscheiden:** Ein **Prompt** formuliert den Auftrag, **Instructions** setzen wiederkehrende Regeln, ein **Skill** bündelt einen bewährten Ablauf und ein **Agent** bearbeitet eine Aufgabe in mehreren Schritten.
+- **Konkrete Anwendungen:** Partnertermine vorbereiten, Kollektivunterlagen verständlich zusammenfassen, Gesprächsnotizen in Entscheide und Aufgaben überführen sowie Partnerprozesse vergleichen.
+- **Ergebnisse beurteilen:** Aussagen an Quellen prüfen, fehlende Angaben erkennen und Inhalt sowie Gestaltung gezielt überarbeiten.
 
-## Prompts
-Die Beispiel Prompts liegen im Ordner [Prompts](./Prompts/)
+## Unterlagen und Praxisbeispiele
 
-## Weitere Ressourcen
+| Material | Wofür du es nutzt | Direkt öffnen |
+| --- | --- | --- |
+| **Workshop-Präsentation** | Grundlagen, Praxisfälle und gemeinsamer Workflow | [PDF](./Slidedeck/Helsana_AI_Context_Engineering.pdf) · [PowerPoint](./Slidedeck/Helsana_AI_Context_Engineering.pptx) |
+| **Beispiel 1: Präsentation mit Copilot** | Kompakter Ausgangsprompt und Beispielpräsentation zum AI-Support im Backoffice | [Prompt](./Prompts/Beispiel%20Pr%C3%A4si%201%20mit%20Microsoft%20Copilot%20-%20PROMPT.txt) · [PowerPoint](./Prompts/Beispiel%20Pr%C3%A4si%201%20mit%20Microsoft%20Copilot.pptx) |
+| **Beispiel 2: Copilot mit geführtem Workflow** | Geführter Ablauf von der Auftragsklärung bis zur Gestaltung, mit Beispielpräsentation | [Prompt](./Prompts/Beispiel%20Pr%C3%A4si%202%20mit%20Copilot_Workflow%20-%20PROMPT.txt) · [PowerPoint](./Prompts/Beispiel%20Pr%C3%A4si%202%20mit%20Copilot_Workflow.pptx) |
 
-### Microsoft Learn
-- [Übersicht über Microsoft Copilot](https://learn.microsoft.com/de-de/copilot/plan/copilot-overview?tabs=microsoft-copilot-chat-basic%2Cmicrosoft-copilot-chat-basic-training)
-- [Erste Schritte mit Microsoft Copilot](https://learn.microsoft.com/de-ch/training/modules/get-started-with-copilot/)
-- [Microsoft 365 Copilot](https://learn.microsoft.com/de-ch/microsoft-365/copilot/overview)
+Als ergänzenden Hintergrund findest du hier die [Context-Engineering-Präsentation aus dem Swiss-Life-Kontext](./Slidedeck/SwissLife_AI_Context_Engineering.pdf).
 
-### Lernvideos
-- [Deine Firma hat Copilot? So holst du alles raus](https://www.youtube.com/watch?v=7tio7ZoyM20)
-- [Microsoft 365 Copilot Tutorial für Anfänger](https://www.youtube.com/watch?v=Y1Dksr7qNgY)
+*Die Präsentationen in den Beispielen enthalten illustrative Annahmen und offene Punkte. Sie dienen der Demonstration; Zahlen und Vorschläge sind vor einer geschäftlichen Verwendung zu validieren.*
 
-### Ideen
-- [Dein Sterne🌟 Küchenteam](https://www.perplexity.ai/projects/dein-sterne-kuchenteam-9rId5ENEQbeT3QGoXQsI1Q)
-- [Parfume Dupe Finder](https://www.perplexity.ai/projects/parfume-dupe-finder-7H.LDpurRvyOj1PC2h137w)
-- [ARE](https://github.com/AndreasKarz/Agentic-BA-RE-Tester-Setup)
+## Der Workflow zum Mitnehmen
+
+**Auftrag klären → Text entwerfen → gemeinsam besprechen → Inhalt freigeben → Folien gestalten → Ergebnis prüfen.**
+
+So werden Ziel, Quellen und Aussagen geklärt, bevor die grafische Umsetzung beginnt. Der [Workflow-Prompt aus Beispiel 2](./Prompts/Beispiel%20Pr%C3%A4si%202%20mit%20Copilot_Workflow%20-%20PROMPT.txt) führt dich durch diese Schritte.
+
+**Direkt ausprobieren:** Öffne PowerPoint und starte, falls vorhanden, mit deiner Firmenvorlage. Öffne Copilot und passe den Prompt an deine Aufgabe an. Ergänze Ziel, Publikum, Umfang und freigegebene Quellen. Lass Copilot zuerst die offenen Fragen mit dir klären.
+
+Für Geschäftsdaten gelten die freigegebene Unternehmensumgebung und die internen Vorgaben. Verfügbare Funktionen hängen von Lizenz und Freigaben ab. Die vier Bausteine sind ein Denkmodell; ihre Umsetzung unterscheidet sich je nach KI-Werkzeug.
+
+## Aus der Praxis: Andreas Karz und ARE
+
+**Andreas Karz** ist AI-Pionier und ehemaliger AI-Experte bei Swiss Life. Sein Hauptprojekt dort: **ARE – Agentic Requirements Engineering**.
+
+ARE verbindet spezialisierte Agents für Business-Analyse, Requirements Engineering und Testing mit wiederverwendbarem Fachwissen und vorbereiteten Prompts. Das Setup für GitHub Copilot in VS Code nutzt Projektinformationen aus Azure DevOps, Wikis und Quellcode als Kontext. Es unterstützt dabei, Anforderungen zu analysieren, Akzeptanzkriterien zu schärfen und Testfälle abzuleiten. Vorschläge werden im Dialog geprüft und weiterentwickelt.
+
+→ [ARE auf GitHub: Setup und Anwendungsbeispiele](https://github.com/AndreasKarz/Agentic-BA-RE-Tester-Setup)
+
+## Weiterlernen und ausprobieren
+
+### Microsoft Copilot
+
+- **Offizieller Einstieg:** [Copilot im Überblick](https://learn.microsoft.com/de-de/copilot/plan/copilot-overview) · [Erste Schritte mit Microsoft Copilot](https://learn.microsoft.com/de-de/training/modules/get-started-with-copilot/)
+- **Lernvideos:** [Deine Firma hat Copilot? So holst du alles raus](https://www.youtube.com/watch?v=7tio7ZoyM20) · [Microsoft 365 Copilot für Anfänger](https://www.youtube.com/watch?v=Y1Dksr7qNgY)
 
 ### ChatGPT
-- [ChatGPT personalisieren](https://learn.chatgpt.com/docs/personalize)
-- [ChatGPT desktop app](https://learn.chatgpt.com/docs/app)
-- [Projects and chats](https://learn.chatgpt.com/docs/projects?surface=app)
-- [Skills & Plugins](https://learn.chatgpt.com/docs/skills-and-plugins)
-- [Build skills](https://learn.chatgpt.com/docs/build-skills)
-- [Custom instructions with AGENTS.md](https://learn.chatgpt.com/docs/agent-configuration/agents-md)
+
+- **Einrichten:** [Personalisierung](https://learn.chatgpt.com/docs/personalize) · [Desktop-App](https://learn.chatgpt.com/docs/app)
+- **Zusammenarbeit strukturieren:** [Projekte und Chats](https://learn.chatgpt.com/docs/projects?surface=app) · [Skills und Plugins](https://learn.chatgpt.com/docs/skills-and-plugins)
+- **Vertiefen:** [Eigene Skills erstellen](https://learn.chatgpt.com/docs/build-skills) · [Arbeitsregeln mit AGENTS.md](https://learn.chatgpt.com/docs/agent-configuration/agents-md)
+
+### Inspiration und ein Augenzwinkern
+
+- **KI im Alltag:** [Dein Sterne-Küchenteam](https://www.perplexity.ai/projects/dein-sterne-kuchenteam-9rId5ENEQbeT3QGoXQsI1Q) · [Parfum-Dupe-Finder](https://www.perplexity.ai/projects/parfume-dupe-finder-7H.LDpurRvyOj1PC2h137w) auf Perplexity; Zugriff je nach Anmeldung und Freigabe.
+- **Zum Warm-up:** [Warum KI-Einführung in Unternehmen so oft scheitert](https://www.youtube.com/watch?v=MA7-WH4hrlY)
