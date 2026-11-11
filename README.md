@@ -15,11 +15,11 @@ Vom offenen Auftrag zum geprüften Ergebnis: Dieser Workshop zeigt, wie du Micro
 
 | Material | Wofür du es nutzt | Direkt öffnen |
 | --- | --- | --- |
-| **Workshop-Präsentation** | Grundlagen, Praxisfälle und gemeinsamer Workflow | [PDF](./Slidedeck/Helsana_AI_Context_Engineering.pdf) · [PowerPoint](./Slidedeck/Helsana_AI_Context_Engineering.pptx) |
+| **Workshop-Präsentation** | Grundlagen, Praxisfälle und gemeinsamer Workflow [PowerPoint](./Slidedeck/Helsana_AI_Context_Engineering.pptx) |
 | **Beispiel 1: Präsentation mit Copilot** | Kompakter Ausgangsprompt und Beispielpräsentation zum AI-Support im Backoffice | [Prompt](./Prompts/Beispiel%20Pr%C3%A4si%201%20mit%20Microsoft%20Copilot%20-%20PROMPT.txt) · [PowerPoint](./Prompts/Beispiel%20Pr%C3%A4si%201%20mit%20Microsoft%20Copilot.pptx) |
 | **Beispiel 2: Copilot mit geführtem Workflow** | Geführter Ablauf von der Auftragsklärung bis zur Gestaltung, mit Beispielpräsentation | [Prompt](./Prompts/Beispiel%20Pr%C3%A4si%202%20mit%20Copilot_Workflow%20-%20PROMPT.txt) · [PowerPoint](./Prompts/Beispiel%20Pr%C3%A4si%202%20mit%20Copilot_Workflow.pptx) |
 
-Als ergänzenden Hintergrund findest du hier die [Context-Engineering-Präsentation aus dem Swiss-Life-Kontext](./Slidedeck/SwissLife_AI_Context_Engineering.pdf).
+Als ergänzenden Hintergrund findest du hier die [Context-Engineering-Präsentation aus dem Swiss-Life-Kontext](./Slidedeck/SL_AI_Context_Orchestration.pptx).
 
 *Die Präsentationen in den Beispielen enthalten illustrative Annahmen und offene Punkte. Sie dienen der Demonstration; Zahlen und Vorschläge sind vor einer geschäftlichen Verwendung zu validieren.*
 
@@ -43,16 +43,12 @@ ARE verbindet spezialisierte Agents für Business-Analyse, Requirements Engineer
 
 ## Weiterlernen und ausprobieren
 
+[Microsft Copilot Kurzanleitung](./Helsana_Microsoft_Copilot_Kurzanleitung.pdf)
+
 ### Microsoft Copilot
 
 - **Offizieller Einstieg:** [Copilot im Überblick](https://learn.microsoft.com/de-de/copilot/plan/copilot-overview) · [Erste Schritte mit Microsoft Copilot](https://learn.microsoft.com/de-de/training/modules/get-started-with-copilot/)
-- **Lernvideos:** [Deine Firma hat Copilot? So holst du alles raus](https://www.youtube.com/watch?v=7tio7ZoyM20) · [Microsoft 365 Copilot für Anfänger](https://www.youtube.com/watch?v=Y1Dksr7qNgY)
-
-### ChatGPT
-
-- **Einrichten:** [Personalisierung](https://learn.chatgpt.com/docs/personalize) · [Desktop-App](https://learn.chatgpt.com/docs/app)
-- **Zusammenarbeit strukturieren:** [Projekte und Chats](https://learn.chatgpt.com/docs/projects?surface=app) · [Skills und Plugins](https://learn.chatgpt.com/docs/skills-and-plugins)
-- **Vertiefen:** [Eigene Skills erstellen](https://learn.chatgpt.com/docs/build-skills) · [Arbeitsregeln mit AGENTS.md](https://learn.chatgpt.com/docs/agent-configuration/agents-md)
+- **Lernvideos:** [Microsoft Copilot Playlist](https://www.youtube.com/playlist?list=PLFnLbANhr_TE)
 
 ### Inspiration und ein Augenzwinkern
 
